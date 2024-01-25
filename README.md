@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
-<img src="https://img.shields.io/badge/C++-00599C?style=뱃지모양&logo=c%2B%2B&logoColor=#00599C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=#00599C"/>
 <!--
 **JANGJAGUAR/JANGJAGUAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
