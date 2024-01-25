@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=뱃지모양&logo=cplusplus&logoColor=#00599C"/></a>
 <!--
 **JANGJAGUAR/JANGJAGUAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
