@@ -2,19 +2,12 @@
 
 <h2>:sparkles: ABOUT ME :sparkles:</h2>
 
-<h2>:hammer_and_wrench: Technologies and Tools :</h2>
+<h2>:hammer_and_wrench: 🛠️Technologies and Tools :</h2>
  <p>
-  <a href="https://code.visualstudio.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <!--   &nbsp;&nbsp;
   <a href="https://sass-lang.com" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -29,7 +22,7 @@
   </a> -->
   &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   
   </a>
 <!--   &nbsp;&nbsp;
   <a href="https://jquery.com/" target="_blank">
@@ -88,6 +81,8 @@
    <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Illustrator.png" title="Illustrator" width="40" height="40" />
   </a>
  </p><br>
+
+ <h2>:hammer_and_wrench: Stduying :</h2>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=#00599C"/>
 
