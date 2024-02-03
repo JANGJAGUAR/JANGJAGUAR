@@ -1,14 +1,80 @@
-### github test 👋
+### JANGJAGAUR's GITHUB
+
+<div align="center">
+  <img align="right" class="robot" src="" alt="Coder GIF" width="400" height="400">
 
 <h2>:sparkles: ABOUT ME :sparkles:</h2>
 
-<h2>:hammer_and_wrench: 🛠️Technologies and Tools :</h2>
- <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<!--   &nbsp;&nbsp;
+<h2>:hammer_and_wrench: Technologies and Tools :</h2>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal-engine" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" width="40" height="40"/>
+    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="Photoshop" width="40" height="40"/>
+    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" title="Illustrator" width="40" height="40"/>
+    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/lightroom.svg" title="Lightroom" width="40" height="40"/>
+    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg" title="Premiere" width="40" height="40"/>
+    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/after-effects.svg" title="AfterEffects" width="40" height="40"/>
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="aduino" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+
+  </p>
+      
+<h2>:hammer_and_wrench: Stduying :</h2>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernates" width="40" height="40"/>
+  </p><br>
+  
+<h2>:zap: GitHub Stats</h2>
+<!--  <p>
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="visitors">
+   <img src="https://visitor-badge.glitch.me/badge?page_id=light9639.light9639" alt="visitors">
+ </p> -->
+ 
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" /> |
+ | ------------- | ------------- |
+
+
+
+</div>
+<!--   &nbsp;&nbsp;https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif'
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact)](https://github.com/JANGJAGUAR/github-readme-stats)
   <a href="https://sass-lang.com" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
@@ -60,39 +126,6 @@
   <a href="https://vitejs.dev/" target="_blank">
    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
   </a> -->
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-   <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" title="github" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-   <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="visualstudio_code" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA8aOeBhCWARIsANRFrQHpa_TE_Efs_hycm_4eXZbQheO4_FUwaEx8B_fRPEVAfkesLSXykfIaAsBYEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA8aOeBhCWARIsANRFrQHpa_TE_Efs_hycm_4eXZbQheO4_FUwaEx8B_fRPEVAfkesLSXykfIaAsBYEALw_wcB:G:s&s_kwcid=AL!3085!3!380984034930!e!!g!!photoshop!97967719!4837432399" target="_blank">
-   <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Photoshop.png" alt="Photoshop" width="40" height="40" />
-  </a>
-    &nbsp;&nbsp;
-  <a href="https://www.adobe.com/kr/products/illustrator.html?gclid=Cj0KCQiA8aOeBhCWARIsANRFrQHQel7NxINVqPFrAm9msoOwVJ7YdSbcyRZg6cjewpqdLtEiJA8SuIcaAk-xEALw_wcB&sdid=T6SQLW1W&mv=search&ef_id=Cj0KCQiA8aOeBhCWARIsANRFrQHQel7NxINVqPFrAm9msoOwVJ7YdSbcyRZg6cjewpqdLtEiJA8SuIcaAk-xEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117331!e!!g!!illustrator!95734519!4169949319" target="_blank">
-   <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Illustrator.png" title="Illustrator" width="40" height="40" />
-  </a>
- </p><br>
-
- <h2>:hammer_and_wrench: Stduying :</h2>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=#00599C"/>
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=Csharp&logoColor=#00599C"/>
-
-Unity UnrealEngine
-C# C++ Python JAVA
-HTML CSS JavaScripts
-Spring
-Git Github
 
 <!--
 **JANGJAGUAR/JANGJAGUAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
