@@ -62,9 +62,9 @@
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" width="355" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> 
   </p>
+  <h2>:pencil2: Stduying </h2>
   <p>
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman" width="355" />
-    <img src="https://github-readme-tistory-card.vercel.app/api?name=jangjaguar&theme=default" />
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman" width="355" /> <img align="center"src="https://github-readme-tistory-card.vercel.app/api?name=jaguarcontrail&theme=default&postId=10" width="595" />
   </p>
   <h2>:top: Top Repositories</h2>
  
