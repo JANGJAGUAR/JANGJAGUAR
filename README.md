@@ -38,8 +38,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </p>
- 
-      
 <h3>:pencil2: Stduying </h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
@@ -56,16 +54,22 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernates" width="30" height="30"/>
   </p><br>
-  
-<h2>:zap: GitHub Stats</h2>
-<!--  <p>
+  <h2>:zap: GitHub Stats</h2>
+  <!--  <p>
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="visitors">
    <img src="https://visitor-badge.glitch.me/badge?page_id=light9639.light9639" alt="visitors">
- </p> -->
+  </p> -->
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" width="355" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> 
+  </p>
+  <p>
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman" width="355" />
+    <img src="https://github-readme-tistory-card.vercel.app/api?name=jangjaguar&theme=default" />
+  </p>
+  <h2>:top: Top Repositories</h2>
  
- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | 
- | ------------- | ------------- |
- <h2>:top: Top Repositories</h2>
+  
+ 
  
 <!-- game/web -->
 <!--  <a href="https://github.com/light9639/PortFolio/tree/master">
@@ -76,6 +80,7 @@
  </a> -->
  
 </div>
+
 <!--   &nbsp;&nbsp;https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif'
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact)](https://github.com/JANGJAGUAR/github-readme-stats)
 
