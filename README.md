@@ -64,7 +64,7 @@
   </p>
   <h2>:pencil2: Stduying </h2>
   <p>
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman" width="355" /> <img align="center"src="https://github-readme-tistory-card.vercel.app/api?name=jaguarcontrail&theme=default&postId=10" width="595" />
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman" width="355" /> <img align="center"src="https://github-readme-tistory-card.vercel.app/api?name=jaguarcontrail&theme=default&postId=10"  />
   </p>
   <h2>:top: Top Repositories</h2>
  
