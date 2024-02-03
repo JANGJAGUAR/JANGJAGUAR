@@ -5,7 +5,6 @@
 
 <h2>:sparkles: ABOUT ME :sparkles:</h2>
 <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Jang Jae Gyu, Junior Developer</p>
-<p> </p>
 <p> Game Client Developer :video_game: / Web Developer :computer:<br>
 
 <h2>:computer: Technologies and Tools </h2>
@@ -66,6 +65,15 @@
  
  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | 
  | ------------- | ------------- |
+ <h2>:top: Top Repositories</h2>
+ 
+<!-- game/web -->
+<!--  <a href="https://github.com/light9639/PortFolio/tree/master">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=light9639&repo=PortFolio" />
+ </a>
+ <a href="https://github.com/light9639/WooriBank">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=light9639&repo=WooriBank" />
+ </a> -->
  
 </div>
 <!--   &nbsp;&nbsp;https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif'
