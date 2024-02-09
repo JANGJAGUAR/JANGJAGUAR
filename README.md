@@ -65,11 +65,13 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJANGJAGUAR&count_bg=%23ACACAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false" alt="visitors">
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" width="355" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" width="355" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR" alt="Anurag's github stats" /> 
   </p>
   <h2>:pencil2: Stduying </h2>
   <p>
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman"/> <img align="center" src="https://github-readme-tistory-card.vercel.app/api?name=shohoku-jungdaeman&theme=default"/>
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman"/>
+    <img align="center" src="https://github-readme-tistory-card.vercel.app/api?name=shohoku-jungdaeman&theme=default"/>
   </p>
   <h2>:top: Top Repositories</h2>
  
