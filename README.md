@@ -4,7 +4,7 @@
   <img align="left" src="https://github.com/JANGJAGUAR/JANGJAGUAR/assets/155319309/19bb2628-4ed0-4049-b508-7fd1bb1600ae" alt="jangjaegyu" width="378" height="504">
 
 <h2>:sparkles: ABOUT ME :sparkles:</h2>
-<p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Jang Jae Gyu, Junior Developer</p>
+<p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Jang Jae Gyu, Junior Developer, </p>
 <p> Game Client and Server Developer :video_game: / Web Developer :computer:<br>
 
 <h2>:computer: Technologies and Tools </h2>
