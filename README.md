@@ -5,7 +5,8 @@
 
 <h2>:sparkles: ABOUT ME :sparkles:</h2>
 <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Jang Jae Gyu, Junior Developer, </p>
-<p> Game Client and Server Developer :video_game: / Web Developer :computer:<br>
+<p> Game Client and Server Developer :video_game: / Web Developer :computer:<br> </p>
+<p> :computer: Yonsei Univ. Computer Science<br> </p>
 
 <h2>:computer: Technologies and Tools </h2>
   <p>
@@ -48,14 +49,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </p>
-<h3>:pencil2: Stduying </h3>
+<!-- <h3>:pencil2: Stduying </h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="20" height="20"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/>
-  </p><br>
+  </p><br> -->
   <h2>:zap: GitHub Stats</h2>
   <!--  <p>
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="visitors">
