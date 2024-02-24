@@ -75,7 +75,7 @@
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman"/>
     <img align="center" src="https://github-readme-tistory-card.vercel.app/api?name=shohoku-jungdaeman&theme=default"/>
   </p>
-  <h2>:top: Top Repositories</h2>
+  <!--<h2>:top: Top Repositories</h2>-->
  
   
  
