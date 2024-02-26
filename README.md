@@ -1,4 +1,4 @@
-<h1>:leopard:JANGJAGUAR</h1>
+<h1>:leopard:JANGJAGUAR's Github</h1>
 
 <div align="center">
   <img align="left" src="https://github.com/JANGJAGUAR/JANGJAGUAR/assets/155319309/19bb2628-4ed0-4049-b508-7fd1bb1600ae" alt="jangjaegyu" width="378" height="504">
