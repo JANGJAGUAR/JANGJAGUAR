@@ -3,13 +3,15 @@
 <div align="center">
   <img align="left" src="https://github.com/JANGJAGUAR/JANGJAGUAR/assets/155319309/19bb2628-4ed0-4049-b508-7fd1bb1600ae" alt="jangjaegyu" width="378" height="504">
 
-<h2>:sparkles: ABOUT ME :sparkles:</h2>
+<h3>:sparkles: ABOUT ME :sparkles:</h3>
 <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Jang Jae Gyu, Junior Developer </p>
 <p> Game Client / Server Developer :video_game: </p>
 <p> Full-Stack Developer :computer:<br> </p>
 <p> :eagle: Yonsei Univ. Computer Science<br> </p>
+<p> - </p>
+<p>  </p>
+<h3>:computer: Technologies and Tools </h3>
 
-<h2>:computer: Technologies and Tools </h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -70,11 +72,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGJAGUAR&layout=compact&hide_border=true" width="355" /> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JANGJAGUAR" alt="Anurag's github stats" /> 
   </p>
-  <h2>:pencil2: Stduying </h2>
+<!--   <h2>:pencil2: Stduying </h2>
   <p>
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku_jungdaeman"/>
     <img align="center" src="https://github-readme-tistory-card.vercel.app/api?name=shohoku-jungdaeman&theme=default"/>
-  </p>
+  </p> -->
   <!--<h2>:top: Top Repositories</h2>-->
  
   
